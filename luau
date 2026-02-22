@@ -185,5 +185,34 @@
   },
   "uniques": {
     "Corrupt": 800
+  },
+  "untradable": {
+    "DefaultGun": true,
+    "DefaultKnife": true,
+    "Reaver": true,
+    "Reaver_Legendary": true,
+    "Reaver_Godly": true,
+    "Reaver_Ancient": true,
+    "IceHammer": true,
+    "IceHammer_Legendary": true,
+    "IceHammer_Godly": true,
+    "IceHammer_Ancient": true,
+    "Gingerscythe": true,
+    "Gingerscythe_Legendary": true,
+    "Gingerscythe_Godly": true,
+    "Gingerscythe_Ancient": true,
+    "TestItem": true,
+    "Season1TestKnife": true,
+    "Cracks": true,
+    "Icecrusher": true,
+    "???": true,
+    "Dartbringer": true,
+    "TravelerAxeRed": true,
+    "TravelerAxeBronze": true,
+    "TravelerAxeSilver": true,
+    "TravelerAxeGold": true,
+    "BlueCamo_K_2022": true,
+    "GreenCamo_K_2022": true,
+    "SharkSeeker": true
   }
 }
